@@ -1,0 +1,15 @@
+langchain
+langchain-community
+chromadb
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+SpeechRecognition
+gTTS
+pydantic
+python-multipart
+torch
+transformers
+pypdf
