@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-*.so
-venv/
-.env
-chroma_db/
-models/
-data/raw/*
-!data/raw/.gitkeep
