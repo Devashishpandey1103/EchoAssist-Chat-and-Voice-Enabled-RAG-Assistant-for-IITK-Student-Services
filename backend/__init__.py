@@ -1,1 +1,0 @@
-"""EchoAssist Backend Package"""
